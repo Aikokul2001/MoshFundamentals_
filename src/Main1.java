@@ -1,5 +1,5 @@
 public class Main1 {
-    public static void main(String[] args) {
+    public static void main(StringExample[] args) {
         byte age = 30;
         long viewsCount = 3_123_456_789L;
         float price = 10.99F;
