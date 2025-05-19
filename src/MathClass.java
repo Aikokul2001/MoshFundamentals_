@@ -24,6 +24,7 @@ public class MathClass {
         System.out.println(eleventh);
         int twelve = (int)(Math.random()*100);
         System.out.println(twelve);
+        System.out.println(twelve);
 
 
 
