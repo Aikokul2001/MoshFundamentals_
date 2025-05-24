@@ -25,7 +25,6 @@ public class IfStatement {
            else {
             System.out.println("Further review needed");
             System.out.println();
-            System.out.println();
 
         }
 
