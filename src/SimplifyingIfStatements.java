@@ -19,6 +19,7 @@ public class SimplifyingIfStatements {
         int income1 = 20_000;
         boolean hasHighIncome1 = (income1 > 100_000); // if this boolean expression evaluates to true, it will be true. Otherwise, false.
         System.out.println(hasHighIncome1);
+        System.out.println();
 
 
 
